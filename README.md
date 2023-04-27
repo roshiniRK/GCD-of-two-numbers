@@ -22,7 +22,7 @@ RegisterNumber:  212222230123
 */
 ```
 
-
+```
 def gcd():
     num1=int(input())
     num2=int(input())
@@ -34,6 +34,7 @@ def gcd():
         if num1%i==0 and num2%i==0:
             gcdvalue=i
     print("GCD of two numbers is: {}".format(gcdvalue))
+```
 
 
 ## Output:
